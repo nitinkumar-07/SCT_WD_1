@@ -23,6 +23,7 @@ It showcases property listings, highlights features, and provides an elegant use
 
 ## 🚀 Features
 - **Responsive Design** – Works on desktop, tablet, and mobile.
+- **Sticky Navbar** – Navigation bar stays fixed at the top while scrolling.
 - **Modern UI** – Minimal and elegant design with smooth colors.
 - **Navigation Menu Toggle** – Hamburger menu for mobile that switches to a close icon.
 - **Hero Section** – Eye-catching hero image with a search filter.
@@ -48,3 +49,11 @@ It showcases property listings, highlights features, and provides an elegant use
 ├── script.js        # JavaScript functionality
 ├── images/          # Project images
 └── README.md        # Project documentation
+
+📱 Responsive Views
+
+- **Desktop **
+
+- **Tablet **
+
+- **Mobile **
