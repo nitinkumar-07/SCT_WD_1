@@ -42,7 +42,7 @@ It showcases property listings, highlights features, and provides an elegant use
 
 ---
 
-##📱 Responsive Views
+📱 Responsive Views
 
 - Desktop 
 
