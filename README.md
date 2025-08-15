@@ -44,11 +44,11 @@ It showcases property listings, highlights features, and provides an elegant use
 
 ##📱 Responsive Views
 
-- **Desktop 
+- Desktop 
 
-- **Tablet 
+- Tablet 
 
-- **Mobile
+- Mobile
 
 ## 📂 Project Structure
 ```plaintext
