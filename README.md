@@ -42,6 +42,14 @@ It showcases property listings, highlights features, and provides an elegant use
 
 ---
 
+##📱 Responsive Views
+
+- **Desktop **
+
+- **Tablet **
+
+- **Mobile **
+
 ## 📂 Project Structure
 ```plaintext
 ├── index.html       # Main HTML file
@@ -50,10 +58,6 @@ It showcases property listings, highlights features, and provides an elegant use
 ├── images/          # Project images
 └── README.md        # Project documentation
 
-📱 Responsive Views
+---
 
-- **Desktop **
 
-- **Tablet **
-
-- **Mobile **
